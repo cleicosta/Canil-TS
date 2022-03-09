@@ -1,7 +1,7 @@
 {
   "name": "canil-ts",
   "version": "1.0.0",
-  "description": "",
+  "description": "enciclopédia de pets",
   "main": "index.js",
   "engines": {
     "node": "16.x"
@@ -10,7 +10,7 @@
     "start": "node dist/server.js",
     "postinstall": "tsc && copyfiles -u 1 src/**/*.mustache dist/",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start-dev": "nodemon -e ts,json,mustache src/server.ts"
+    "start-dev": "nodemon -e ts,json, mustache src/server.ts"
   },
   "repository": {
     "type": "git",
