@@ -1,4 +1,6 @@
-# Projeto: PetDevShop
+# Projeto: EncicloPEtia
+
+![](./public/projetocanil.gif)
 
 ### Pré-requisitos globais:
 
@@ -11,3 +13,7 @@
 ### Para rodar o projeto:
 
 `npm run start-dev`
+
+### Visualizar projeto:
+
+[Aqui ](https://mighty-depths-38851.herokuapp.com/)
