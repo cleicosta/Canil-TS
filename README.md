@@ -1,4 +1,4 @@
-# Projeto: EncicloPEtia
+# Projeto: EncicloPETia
 
 ![](./public/projetocanil.gif)
 
